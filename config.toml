@@ -54,15 +54,3 @@ enable = true
 heading = "We love to make brands grow"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
-[[menu.service]]
-name = "webdevelopment"
-url = "service"
-weight = 3
-[[menu.service]]
-name = "webdesign"
-url = "service"
-weight = 2
-[[menu.service]]
-name = "graphicdesign"
-url = "service"
-weight = 1
