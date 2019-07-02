@@ -1,4 +1,20 @@
 ---
 label: Main
 hide_body: true
-fields: []
+fields:
+- name: test1
+  type: datetime
+  label: Test1
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: test2
+  type: blocks
+  label: test2
+  template_types: []
+  config:
+    min: 
+    max: 
